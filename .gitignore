@@ -1,0 +1,5 @@
+terraform/*-api.key
+terraform/secret.tfvars
+terraform.tfstate*
+terraform/.terraform.lock.hcl
+terraform/.terraform/*
